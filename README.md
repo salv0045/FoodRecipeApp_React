@@ -1,7 +1,10 @@
 # Food Recipe-APP #
 
-* Built Food Recipe React-App which allows users to search for the recipe of thier own choice.
+* Built Food Recipe React-App which allow users to search for the recipe of thier own choice.
 * Data is fetched from Recipe search API.
+* You can check my app [here](https://stupefied-yonath-3e7fbe.netlify.app)
+
+
 
 
 
