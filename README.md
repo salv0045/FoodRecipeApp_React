@@ -1,3 +1,24 @@
+# Food Recipe-APP #
+
+Built Food Recipe React-App which allows users to search for the recipe of thier own choice.
+Data is fetched from Recipe search API.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
