@@ -1,7 +1,7 @@
 # Food Recipe-APP #
 
-Built Food Recipe React-App which allows users to search for the recipe of thier own choice.
-Data is fetched from Recipe search API.
+* Built Food Recipe React-App which allows users to search for the recipe of thier own choice.
+* Data is fetched from Recipe search API.
 
 
 
