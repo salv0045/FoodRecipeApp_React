@@ -10,8 +10,9 @@ const Recipe =({title,calories,image,ingredients}) =>{
                     <li>{ingredient.text}</li>
                 ))}
             </ol>
-            <p>{calories}</p>
-            <img className={style.image}src={image} alt=""/>
+            <p>Calories: {Math.round(calories)}</p>
+            <img className={style.image}src={image} alt="Image not found" onError={(e)=>{e.target.onerror=null; e.target.src="img/test.jpeg"}}/>
+        
         </div>
 
     );
